@@ -1,0 +1,62 @@
+
+"annual survey of hours and earnings - resident analysis"
+"ONS Crown Copyright Reserved [from Nomis on 25 April 2026]"
+"Analysis   :","standard"
+"Date       :","2019"
+"Sex        :","Full Time Workers"
+"Item Name  :","Median"
+"Confidence :","Standard error as a percentage of the figure"
+
+"local authority: district / unitary (as of April 2023)","mnemonic","Weekly pay - gross","Conf %"
+
+"Barking and Dagenham","E09000002",589.8,3.9
+"Barnet","E09000003",677.5,4.8
+"Bexley","E09000004",671.0,4.2
+"Brent","E09000005",609.6,3.5
+"Bromley","E09000006",785.3,4.3
+"Camden","E09000007",795.4,6.0
+"City of London","E09000001","#","#"
+"Croydon","E09000008",671.4,2.9
+"Ealing","E09000009",622.4,3.9
+"Enfield","E09000010",638.9,4.9
+"Greenwich","E09000011",679.6,3.9
+"Hackney","E09000012",709.2,3.5
+"Hammersmith and Fulham","E09000013",795.3,3.9
+"Haringey","E09000014",670.8,3.2
+"Harrow","E09000015",693.5,4.1
+"Havering","E09000016",650.4,4.2
+"Hillingdon","E09000017",621.7,4.0
+"Hounslow","E09000018",658.8,3.9
+"Islington","E09000019",801.0,4.9
+"Kensington and Chelsea","E09000020",901.3,11.0
+"Kingston upon Thames","E09000021",742.8,5.5
+"Lambeth","E09000022",714.4,2.7
+"Lewisham","E09000023",654.1,4.2
+"Merton","E09000024",710.4,6.6
+"Newham","E09000025",622.8,3.8
+"Redbridge","E09000026",683.9,4.8
+"Richmond upon Thames","E09000027",820.3,5.7
+"Southwark","E09000028",709.1,3.7
+"Sutton","E09000029",668.6,4.8
+"Tower Hamlets","E09000030",780.4,4.2
+"Waltham Forest","E09000031",680.3,4.1
+"Wandsworth","E09000032",811.8,3.8
+"Westminster","E09000033",812.8,6.6
+"Column Total","Column Total",-,-
+
+
+"#","These figures are suppressed as statistically unreliable"
+
+"-","These figures are missing."
+
+"","Results for 2003 and earlier exclude supplementary surveys. In 2006 there"
+"","were a number of methodological changes made. For further details goto :"
+"","http://www.nomisweb.co.uk/articles/341.aspx"
+"",""
+
+"","Estimates for 2011 and subsequent years use a weighting scheme based on"
+"","occupations which have been coded according to Standard Occupational"
+"","Classification (SOC) 2010 that replaced SOC 2000.  Therefore care"
+"","should be taken when making comparisons with earlier years."
+"",""
+
